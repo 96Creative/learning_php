@@ -1,0 +1,70 @@
+[05-May-2014 16:57:15] PHP Notice:  Undefined variable: myWar in /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/lesson1/overwritedata.php on line 6
+[05-May-2014 16:57:15] PHP Stack trace:
+[05-May-2014 16:57:15] PHP   1. {main}() /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/lesson1/overwritedata.php:0
+[06-May-2014 07:13:35] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php on line 3
+[06-May-2014 07:14:27] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php on line 3
+[06-May-2014 07:16:10] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php on line 3
+[06-May-2014 08:32:42] PHP Warning:  mysql_connect(): Can't connect to MySQL server on '10.168.1.49' (4) in /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/proba.php on line 5
+[06-May-2014 08:32:42] PHP Stack trace:
+[06-May-2014 08:32:42] PHP   1. {main}() /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/proba.php:0
+[06-May-2014 08:32:42] PHP   2. mysql_connect() /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/proba.php:5
+[06-May-2014 10:33:13] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php on line 3
+[06-May-2014 10:34:07] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php on line 3
+[06-May-2014 10:34:08] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php on line 3
+[06-May-2014 10:39:33] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php on line 3
+[06-May-2014 10:41:43] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php on line 3
+[06-May-2014 10:56:46] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php on line 3
+[06-May-2014 10:57:39] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php on line 3
+[06-May-2014 11:20:03] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php on line 3
+[06-May-2014 11:26:07] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 113 in /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php on line 20
+[06-May-2014 11:26:07] PHP Stack trace:
+[06-May-2014 11:26:07] PHP   1. {main}() /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php:0
+[06-May-2014 11:26:07] PHP   2. mysql_connect() /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php:20
+[06-May-2014 11:26:07] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php on line 21
+[06-May-2014 11:26:07] PHP Stack trace:
+[06-May-2014 11:26:07] PHP   1. {main}() /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php:0
+[06-May-2014 11:26:07] PHP   2. mysql_select_db() /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php:21
+[06-May-2014 11:26:39] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 113 in /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php on line 20
+[06-May-2014 11:26:39] PHP Stack trace:
+[06-May-2014 11:26:39] PHP   1. {main}() /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php:0
+[06-May-2014 11:26:39] PHP   2. mysql_connect() /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php:20
+[06-May-2014 11:26:39] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php on line 21
+[06-May-2014 11:26:39] PHP Stack trace:
+[06-May-2014 11:26:39] PHP   1. {main}() /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php:0
+[06-May-2014 11:26:39] PHP   2. mysql_select_db() /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php:21
+[06-May-2014 11:28:18] PHP Warning:  mysql_connect(): Can't connect to MySQL server on '90.212.162.241' (4) in /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php on line 20
+[06-May-2014 11:28:18] PHP Stack trace:
+[06-May-2014 11:28:18] PHP   1. {main}() /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php:0
+[06-May-2014 11:28:18] PHP   2. mysql_connect() /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php:20
+[06-May-2014 11:28:18] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php on line 21
+[06-May-2014 11:28:18] PHP Stack trace:
+[06-May-2014 11:28:18] PHP   1. {main}() /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php:0
+[06-May-2014 11:28:18] PHP   2. mysql_select_db() /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php:21
+[06-May-2014 11:29:23] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 113 in /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php on line 20
+[06-May-2014 11:29:23] PHP Stack trace:
+[06-May-2014 11:29:23] PHP   1. {main}() /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php:0
+[06-May-2014 11:29:23] PHP   2. mysql_connect() /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php:20
+[06-May-2014 11:29:23] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php on line 21
+[06-May-2014 11:29:23] PHP Stack trace:
+[06-May-2014 11:29:23] PHP   1. {main}() /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php:0
+[06-May-2014 11:29:23] PHP   2. mysql_select_db() /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php:21
+[06-May-2014 11:32:58] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 113 in /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php on line 20
+[06-May-2014 11:32:58] PHP Stack trace:
+[06-May-2014 11:32:58] PHP   1. {main}() /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php:0
+[06-May-2014 11:32:58] PHP   2. mysql_connect() /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php:20
+[06-May-2014 11:32:58] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php on line 21
+[06-May-2014 11:32:58] PHP Stack trace:
+[06-May-2014 11:32:58] PHP   1. {main}() /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php:0
+[06-May-2014 11:32:58] PHP   2. mysql_select_db() /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php:21
+[06-May-2014 11:42:10] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 113 in /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php on line 19
+[06-May-2014 11:42:10] PHP Stack trace:
+[06-May-2014 11:42:10] PHP   1. {main}() /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php:0
+[06-May-2014 11:42:10] PHP   2. mysql_connect() /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php:19
+[06-May-2014 11:43:18] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 113 in /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php on line 19
+[06-May-2014 11:43:18] PHP Stack trace:
+[06-May-2014 11:43:18] PHP   1. {main}() /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php:0
+[06-May-2014 11:43:18] PHP   2. mysql_connect() /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php:19
+[07-May-2014 13:12:23] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 113 in /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php on line 19
+[07-May-2014 13:12:23] PHP Stack trace:
+[07-May-2014 13:12:23] PHP   1. {main}() /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php:0
+[07-May-2014 13:12:23] PHP   2. mysql_connect() /var/lib/stickshift/53627a52e0b8cd8a860007b3/app-root/data/848617/JumpStartPHP/MySQLandPHP/setup.php:19
